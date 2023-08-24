@@ -1,0 +1,11 @@
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.csproj.AssemblyReference.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.Form1.resources
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.Properties.Resources.resources
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.csproj.GenerateResource.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\bin\Debug\FrontDeskApp.exe.config
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\bin\Debug\FrontDeskApp.exe
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\bin\Debug\FrontDeskApp.pdb
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.exe
+C:\Users\Jari\repos\Tree-Depth-Calculator\FrontDeskApp\obj\Debug\FrontDeskApp.pdb
