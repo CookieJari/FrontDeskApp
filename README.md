@@ -1,7 +1,5 @@
 # FrontDeskApp
 
-<br><br>
-
 This app is made for the Coding Exercise for STEALTH MONITORING.<br>
 This is a C# app for the front desk at a storage facility. It takes in the mobile number and the first and last name of a customer. The app also asks for the amount of boxes to be stored or retrieved. This app uses the Memory to store the customers and boxes. <br><br>
 ##Storage.cs<br>
